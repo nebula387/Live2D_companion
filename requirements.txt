@@ -1,0 +1,5 @@
+piper-tts
+openai-whisper
+sounddevice
+numpy
+requests

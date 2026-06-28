@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+aki_log_*.txt
+nika_log_*.txt
+
+# Audio files
+*.wav
+*.mp3
+
+# Model files (too large for git)
+*.onnx
+*.bin
+*.pt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
