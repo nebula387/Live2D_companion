@@ -1,5 +1,7 @@
 # Nika — AI Companion with Live2D Avatar
 
+<video src="Record_Nika_1.mp4" controls width="100%"></video>
+
 A local AI companion with a live 2D avatar, voice synthesis, and conversational AI.
 Nika acts as an English teacher, programming assistant, and friendly companion.
 Activated by wake word **"Nika"** — no cloud, no subscriptions, runs fully offline.
